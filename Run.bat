@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="imageGather.App" -Dexec.args="D:\\Photos D:\\PhotoOutput"
