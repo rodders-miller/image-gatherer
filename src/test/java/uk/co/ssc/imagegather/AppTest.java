@@ -1,4 +1,4 @@
-package imageGather;
+package uk.co.ssc.imagegather;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

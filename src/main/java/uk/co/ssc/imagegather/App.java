@@ -1,9 +1,5 @@
-package imageGather;
+package uk.co.ssc.imagegather;
 
-import java.io.*;
-import java.util.zip.CheckedInputStream;
-import java.util.zip.CRC32;
-import java.util.HashMap;
 import java.util.Calendar;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
