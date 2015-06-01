@@ -1,1 +1,1 @@
-mvn exec:java -Dexec.mainClass="imageGather.App" -Dexec.args="D:\\Photos D:\\PhotoOutput"
+mvn exec:java -Dexec.mainClass="uk.co.ssc.imagegather.App" -Dexec.args="D:\\Photos D:\\PhotoOutput"
